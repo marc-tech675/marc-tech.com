@@ -16,7 +16,7 @@ Fonctionnalités
 
 Développeur
 
-- Nom: MARC-TECH
+- Nom: NOIR x
 - Contact : [286plug@gmail,com]
 
 Installation
