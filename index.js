@@ -3,7 +3,7 @@ const { Client, MessageMedia } = require('whatsapp-web.js');
 const fs = require('fs');
 
 // Configuration
-const phoneNumber = process.env.PHONE_NUMBER; // Numéro de téléphone du bot
+const phoneNumber = process.env.PHONE_NUMBER; // +2250501889640
 const groupId = process.env.GROUP_ID; // ID du groupe
 const token = process.env.TOKEN; // Token WhatsApp Web
 
