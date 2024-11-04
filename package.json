@@ -1,0 +1,13 @@
+```
+{
+  "name": "whatsapp-bot-kickall",
+  "version": "1.0.0",
+  "dependencies": {
+    "whatsapp-web.js": "^1.4.1",
+    "fs": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
+```
